@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20SuJin's%20GitHub%20&animation=twinkling&fontSize=55&fontAlignY=40&fontAlign=50)
+
 <h2 align = "center">🌱 Me 🌱</h2>
 
 <!--
